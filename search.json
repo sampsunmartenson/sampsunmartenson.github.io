@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a sports fan that is interested in the data side of what goes into everything. Also I’m a big Avs fan."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sportsblog",
+    "section": "",
+    "text": "The Dominance of the 2022 Colorado Avalanche\n\n\n\n\n\n\n\nhockey\n\n\ncolorado\n\n\navalanche\n\n\n\n\n\n\n\n\n\n\n\nMar 21, 2023\n\n\nSampsun Martenson\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 21, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 18, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/avalanche-dominance-measured/index.html",
+    "href": "posts/avalanche-dominance-measured/index.html",
+    "title": "The Dominance of the 2022 Colorado Avalanche",
+    "section": "",
+    "text": "In 2022 the Colorado Avalanche had one of the most dominant hockey seasons of all time.\n\n\nCode\nlibrary(tidyverse)\n\n\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n✔ ggplot2 3.4.0      ✔ purrr   1.0.1 \n✔ tibble  3.1.8      ✔ dplyr   1.0.10\n✔ tidyr   1.2.1      ✔ stringr 1.5.0 \n✔ readr   2.1.3      ✔ forcats 0.5.2 \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\n\n\n\n\nCode\n#Here is a comment"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
